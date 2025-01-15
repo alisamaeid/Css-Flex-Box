@@ -13,7 +13,7 @@ This is a simple, single-page project that demonstrates the use of Flexbox in CS
 ## Installation
 
 1. Clone or download the repository.
-2. Open the `index.html` file in your preferred browser—no additional setup required.
+2. Open the `index.html` file.
 
 
 ## Usage
