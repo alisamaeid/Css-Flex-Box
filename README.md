@@ -25,3 +25,7 @@ Contributions are welcome! Feel free to expand on this project by adding more se
 <div align="center">
   <img src="./view.png" alt="Image Description" width="600"/>
 </div>
+<br>
+<div align="center">
+  <img src="./view2.png" alt="Image Description" width="600"/>
+</div>
