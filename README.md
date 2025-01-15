@@ -24,3 +24,6 @@ Simply open the `index.html` file in any browser. No installations or dependenci
 ## Contributing
 Contributions are welcome! Feel free to expand on this project by adding more sections, enhancing styling, or making it more user-friendly. It’s a great way to practice and showcase your skills.
 
+<div align="center">
+  <img src="./view.png" alt="Image Description" width="600"/>
+</div>
